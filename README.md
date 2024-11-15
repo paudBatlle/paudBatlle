@@ -1,16 +1,41 @@
-## Hi there 👋
+### Hello World 👋 It's [Pau!](https://paudBatlle.github.io/MyPortfolio/)
 
-<!--
-**paudBatlle/paudBatlle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/pau-de-batlle/">
+<img align="left" alt="Pau De Batlle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<br />
+
+<br />
+
+Hi,I'm Pau de Batlle🙌, a Machine Learning and Artificial Intelligence Engineer. 
+
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+
+<img align="right" alt="GIF" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="500">
+
+
+**Talking about Personal Stuffs:**
+
+- 🔭 I’m currently a Student @ ISDI.
+- 🌱 I’m currently reviewing ML&DL Basics and Go.
+- 👯 Part of Developer Community.
+- 💬 Ask me about anything , Would love to answer them.✌
+- 📫 How to reach me: Linkedin and Gmail
+
+
+
+
+**Languages and Tools:**
+
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+![Pau's github stats](https://github-readme-stats.vercel.app/api?username=paudBatlle&show_icons=true&hide_border=true)
