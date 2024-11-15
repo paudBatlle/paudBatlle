@@ -14,9 +14,8 @@
 Hi,I'm Pau de Batlle🙌, a Machine Learning and Artificial Intelligence Engineer. 
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
-<img align="right" alt="GIF" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="500">
+<img align="right" alt="GIF" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="250">
 
 
 **Talking about Personal Stuffs:**
