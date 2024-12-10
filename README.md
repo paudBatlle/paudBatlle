@@ -19,7 +19,7 @@ Hi,I'm Pau de Batlle🙌, a Machine Learning and Artificial Intelligence Enginee
 
 
 **Talking about Personal Stuffs:**
-
+- Just joined a start-up, so i have no time :)
 - 🔭 I’m currently a Student @ ISDI.
 - 🌱 I’m currently reviewing ML&DL Basics and Go.
 - 👯 Part of Developer Community.
