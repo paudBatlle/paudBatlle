@@ -1,38 +1,23 @@
-### Hello World 👋 It's [Pau!](https://paudBatlle.github.io/MyPortfolio/)
+# Hi there, I'm Pau De Batlle 👋
 
-<br/>
+I am an AI/ML Engineer and Data Scientist passionate about driving GenAI and ML innovations. I thrive in multidisciplinary environments and enjoy contributing across the full AI lifecycle—from research and simulation models to deploying production-grade agentic systems that solve complex business challenges
 
+## 🚀 What I'm Up To
+* **Currently:** Architecting enterprise-grade RAG pipelines, developing LLM-as-a-judge evaluation frameworks and other platforms and tools to help both techincal and business colleagues at SWISS International Airlines.
+* **Previously:** Engineered agentic workflows and privacy-centric local LLMs (Ollama) for healthcare at Medidedalia, and built real-time Text-2-SQL platforms at USACD.
+* **Interests:** Large Language Models, Agentic AI, Deep Learning, and deploying reliable AI in regulated or complex environments.
 
-<a href="https://www.linkedin.com/in/pau-de-batlle/">
-<img align="left" alt="Pau De Batlle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+## 🛠️ Tech Stack
+* **Languages:** Python, SQL, C++, C, MATLAB 
+* **AI & Machine Learning:** PyTorch, TensorFlow, Scikit-learn, Hugging Face, Transformers 
+* **GenAI & Orchestration:** LlamaIndex, LangGraph, Ollama 
+* **Data & Engineering:** Docker, Git, Databricks, SciPy 
 
-<br />
+## 🔬 Featured Projects
+* [**Cardiac Arrhythmia Treatment Predictor:** Engineered an end-to-end ML pipeline integrating 3D heart modeling from MRIs and cellular automata simulations, achieving 88% accuracy in predicting radiotherapy needs.
+* [**Deep Learning Music Classifier:** Built custom Convolutional Neural Networks from scratch using PyTorch to classify 30-second audio spectrograms into distinct genres with 92% accuracy.
 
-<br />
-
-Hi,I'm Pau de Batlle🙌, a Machine Learning and Artificial Intelligence Engineer. 
-
-
-
-<img align="right" alt="GIF" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" width="400">
-
-
-**Talking about Personal Stuffs:**
-- 🔭 Data Analyst Intern @ SWISS.
-- 🌱 I’m currently building a new project.
-- 👯 Part of Developer Community.
-- 💬 Ask me about anything , Would love to answer them.✌
-- 📫 How to reach me: Linkedin and Gmail
-
-
-
-
-**Languages and Tools:**
-
-
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+## 📫 Let's Connect
+* **LinkedIn:** [linkedin.com/in/pau-de-batlle](https://www.linkedin.com/in/pau-de-batlle) 
+* **Email:** [paudebatlle@gmail.com](mailto:paudebatlle@gmail.com)
 
