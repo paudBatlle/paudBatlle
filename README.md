@@ -14,8 +14,8 @@ I am an AI/ML Engineer and Data Scientist passionate about driving GenAI and ML 
 * **Data & Engineering:** Docker, Git, Databricks, SciPy 
 
 ## 🔬 Featured Projects
-* [**Cardiac Arrhythmia Treatment Predictor:** Engineered an end-to-end ML pipeline integrating 3D heart modeling from MRIs and cellular automata simulations, achieving 88% accuracy in predicting radiotherapy needs.
-* [**Deep Learning Music Classifier:** Built custom Convolutional Neural Networks from scratch using PyTorch to classify 30-second audio spectrograms into distinct genres with 92% accuracy.
+* **Cardiac Arrhythmia Treatment Predictor:** Engineered an end-to-end ML pipeline integrating 3D heart modeling from MRIs and cellular automata simulations, achieving 88% accuracy in predicting radiotherapy needs.
+* **Deep Learning Music Classifier:** Built custom Convolutional Neural Networks from scratch using PyTorch to classify 30-second audio spectrograms into distinct genres with 92% accuracy.
 
 ## 📫 Let's Connect
 * **LinkedIn:** [linkedin.com/in/pau-de-batlle](https://www.linkedin.com/in/pau-de-batlle) 
